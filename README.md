@@ -27,4 +27,4 @@ In summary, this task offers a hands-on understanding of how real-time web appli
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/94fe1628-9c02-424d-b386-3e3128c8f7f2)
